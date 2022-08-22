@@ -1,14 +1,4 @@
-# NVIDIA Vulkan Ray Tracing Tutorial
+# Vulkan Ray Tracing
 
-This example is the result of the ray tracing tutorial.
-The tutorial is adding ray tracing capability to an OBJ rasterizer in Vulkan
+This code was used to test Vulkan's basic Ray Tracing capabilities against OptiX' in my master's thesis. It's based on Nvidia's Vulkan [**Ray Tracing Tutorial**](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/).
 
-If you haven't done it, [**Start Ray Tracing Tutorial**](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/).
-
-![resultRaytraceShadowMedieval](../docs/Images/resultRaytraceShadowMedieval.png)
-
-## Going Further
-
-Once the tutorial completed and the basics of ray tracing are in place, other tuturials are going further from this code base.
-
-See all other [additional ray tracing tutorials](../README.md#extra-tutorials)
